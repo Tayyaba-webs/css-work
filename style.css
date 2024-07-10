@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+    background-color: bisque;
+}
+h1 {
+    color: yellow;
+    background-color: black;
+    font-family: 'Courier New';
+    text-transform: uppercase;
+    
+}
+p {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+    color: white;
+    background-color:orange;
+    text-align: justify;
+}
+.tay {
+    color: rgb(110, 235, 85);
+    background-color: rgb(11, 64, 0);
+    font-family: 'Courier New';
+    text-transform: uppercase;
+}
